@@ -1,9 +1,3 @@
----
-
-permalink: /404.html
-
----
-
 Dowmload the Tom and Jerry Chase （CN）
  Dowmload Channel：
     - [Official](https:/tom.163.com)
