@@ -1,6 +1,6 @@
 ---
 
-permalink: /Language/zh-tw(cn)
+permalink: /Language/zh-tw(cn).html
 
 
 ---
@@ -23,6 +23,6 @@ permalink: /Language/zh-tw(cn)
 
 [網絡磁盤（壓縮包一份）](https://cloud.degoo.com/share/8AnEJCdiS4TFOj)
       
-        壓縮包密码:`123456`
+        壓縮包密鑰:`123456`
    
 ---
