@@ -1,5 +1,6 @@
-Dowmload the Tom and Jerry Chase （CN）
- Dowmload Channel：
+# Dowmload the Tom and Jerry Chase （CN）
+#### Dowmload Channel：
+
 ---
 
 [Official](https://tom.163.com)
@@ -19,3 +20,6 @@ Dowmload the Tom and Jerry Chase （CN）
         Archive package password:`123456`
    
 ---
+## Language：
+[中國繁體<中國香港，中國澳門，中國台灣>](/Dowmload-the-Tom-and-Jerry-Chase-CN/Language/zh-tw(cn).html)
+[English<US/UK/CA/AU/]
