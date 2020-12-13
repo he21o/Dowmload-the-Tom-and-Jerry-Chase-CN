@@ -26,3 +26,8 @@ permalink: /Language/zh-tw(cn).html
         壓縮包密鑰:`123456`
    
 ---
+## Language：
+
+[中國繁體<中國香港，中國澳門，中國台灣>](#)
+
+[English<US/UK/CA/AU/](/Dowmload-the-Tom-and-Jerry-Chase-CN/)
