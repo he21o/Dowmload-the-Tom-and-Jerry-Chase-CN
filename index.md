@@ -1,26 +1,10 @@
-# Dowmload the Tom and Jerry Chase （CN）
+## Dowmload the Tom and Jerry Chase （CN）
 #### Dowmload Channel：
+[Turn to Dowmload-ways(There are new Download Channels)](/dowmload-ways)
 
----
-
-[Official](https://tom.163.com)
-    
----
-
-[Official chilk Dowmload](https://adl.netease.com/d/g/tnj/c/gw?type=android)
-    
----
-
-[taptap](https://www.taptap.com/app/70882)
-    
----
-
-[Netdisk(Archive package)](https://cloud.degoo.com/share/8AnEJCdiS4TFOj)
-      
-        Archive package password:`123456`
-   
----
 ## Language：
 [中國繁體<中國香港，中國澳門，中國台灣>](/Language/zh-tw(cn).html)
 
 [English<US/UK/CA/AU/](#)
+
+[Translation Website](https://github.com/he21o/Dowmload-the-Tom-and-Jerry-Chase-CN)
