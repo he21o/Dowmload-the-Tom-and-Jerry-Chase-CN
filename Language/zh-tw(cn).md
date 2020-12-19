@@ -19,5 +19,5 @@ permalink: /Language/zh-tw(cn).html
 </a>
 
 <a href="mailto:wangziyou0622@gmail.com">
-<img border="0" src="https://tse1-mm.cn.bing.net/th/id/OIP.iyn5C7mKZDHAbBnsHUl3ZgAAAA?pid=Api&dpr=1.5" />
+<img border="0" src="https://tse1-mm.cn.bing.net/th/id/OIP.iyn5C7mKZDHAbBnsHUl3ZgAAAA?pid=Api&dpr=0.55" />
 </a>
