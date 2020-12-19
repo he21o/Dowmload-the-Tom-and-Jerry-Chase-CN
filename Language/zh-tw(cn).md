@@ -15,5 +15,5 @@ permalink: /Language/zh-tw(cn).html
 [English<US/UK/CA/AU/](/#)
 
 <a href="https://github.com/he21o/Dowmload-the-Tom-and-Jerry-Chase-CN">
-<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/220px-Octicons-mark-github.svg.png" />
+<img border="0" src="https://s.cn.bing.net/th?id=OJ.b4JIBX4qc40CKw&pid=MsnJVFeeds&w=64&h=64" />
 </a>
