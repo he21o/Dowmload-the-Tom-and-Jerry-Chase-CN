@@ -19,4 +19,5 @@ permalink: /Language/zh-tw(cn).html
 </a>
 
 使用Wechat扫描Qrcode：
-<img src="//neteasytoms.suijiong.top/files/qr_wx_edba054.jpg" width="60" height="60">
+
+<img src="//neteasytoms.suijiong.top/files/qr_wx_edba054.jpg" width="100.2" height="100">
