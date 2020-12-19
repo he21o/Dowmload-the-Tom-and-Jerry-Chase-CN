@@ -18,6 +18,5 @@ permalink: /Language/zh-tw(cn).html
 <img border="0" src="https://s.cn.bing.net/th?id=OJ.b4JIBX4qc40CKw&pid=MsnJVFeeds&w=32&h=32" />
 </a>
 
-<a href="mailto:wangziyou0622@gmail.com">
-<img border="0" src="https://tse1-mm.cn.bing.net/th/id/OIP.iyn5C7mKZDHAbBnsHUl3ZgAAAA?pid=Api&dpr=0.55" />
-</a>
+使用Wechat扫描Qrcode：
+<img src="/i/eg_mouse.jpg" width="60" height="60">
