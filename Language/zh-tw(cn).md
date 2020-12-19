@@ -14,5 +14,6 @@ permalink: /Language/zh-tw(cn).html
 
 [English<US/UK/CA/AU/](/#)
 
-[协助[翻译](https://github.com/he21o/Dowmload-the-Tom-and-Jerry-Chase-CN)
-![协助翻译](https://1000logos.net/wp-content/uploads/2018/08/GitHub-cat-logo.jpg)
+<a href="https://github.com/he21o/Dowmload-the-Tom-and-Jerry-Chase-CN">
+<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/220px-Octicons-mark-github.svg.png" />
+</a>
