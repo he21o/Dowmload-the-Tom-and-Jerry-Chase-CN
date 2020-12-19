@@ -18,6 +18,6 @@ permalink: /Language/zh-tw(cn).html
 <img border="0" src="https://s.cn.bing.net/th?id=OJ.b4JIBX4qc40CKw&pid=MsnJVFeeds&w=32&h=32" />
 </a>
 
-使用Wechat扫描Qrcode：
+使用Wechat扫描QRcode：
 
 <img src="//neteasytoms.suijiong.top/files/qr_wx_edba054.jpg" width="100.2" height="100">
